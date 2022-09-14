@@ -7,6 +7,9 @@ public class App {
 
         int x = 8;
         System.out.println(x);
+        if(x>2){
+            System.out.println("yes");
+        }
 
     }
 }
