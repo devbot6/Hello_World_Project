@@ -3,5 +3,10 @@ public class App {
         System.out.println("Hello, World! fortnite battee royle");
         System.out.println("this is the change to the code");
         System.out.println("This is my second change lol git stuff");
+
+
+        int x = 8;
+        System.out.println(x);
+
     }
 }
